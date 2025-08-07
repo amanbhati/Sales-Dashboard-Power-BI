@@ -7,14 +7,6 @@ An interactive Power BI dashboard designed to provide a comprehensive overview o
 
 ---
 
-## 🚀 Live Dashboard Preview
-
-A great README shows your project in action! Consider recording a GIF of you clicking through your dashboard's filters and visuals and place it here.
-
-*💡 **Tip:** Use a tool like [ScreenToGif](https://www.screentogif.com/) or [GIPHY Capture](https://giphy.com/apps/giphycapture) to record your screen.*
-
----
-
 ## ✨ Key Features & Insights
 
 This dashboard is built to provide insights into several key areas of the sales process:
@@ -33,7 +25,7 @@ This dashboard is built to provide insights into several key areas of the sales 
 
 This report is powered by data from the following sources. Please list the primary data sources you used.
 
--   [ ] Excel Workbooks (`Sales_Data.xlsx`, `Product_List.xlsx`)
+-   [*] Excel Workbooks (`Sales_Data.xlsx`, `Product_List.xlsx`)
 -   [ ] SQL Database (`Azure SQL, Local SQL Server`)
 -   [ ] SharePoint Folder
 -   [ ] Other (e.g., Web API, CSV files)
