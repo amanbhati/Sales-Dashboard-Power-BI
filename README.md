@@ -11,11 +11,6 @@ An interactive Power BI dashboard designed to provide a comprehensive overview o
 
 A great README shows your project in action! Record a GIF of you clicking through your dashboard's filters and visuals and place it here.
 
-*💡 **Tip:** Use a tool like [ScreenToGif](https://www.screentogif.com/) or [GIPHY Capture](https://giphy.com/apps/giphycapture) to record your screen.*
-
-![Dashboard GIF](https://placehold.co/800x450/2d3748/ffffff?text=Replace+this+with+a+GIF+of+your+dashboard!)
-*<p align="center">👆 Your interactive dashboard in action! 👆</p>*
-
 ---
 
 ## ✨ Key Features & Insights
@@ -92,7 +87,7 @@ Contributions are welcome! If you have suggestions for improving the dashboard, 
 
 ## 📸 Preview
 
-![Dashboard Screenshot](https://github.com/amanbhati/E-Commerce-Dashboard-Power-BI-/raw/d199b266e46293f40034a0d9a8e3d8c528e0e6db/Screenshot%202025-07-18%20105247.png)
+![Dashboard Screenshot]([https://github.com/amanbhati/E-Commerce-Dashboard-Power-BI-/raw/d199b266e46293f40034a0d9a8e3d8c528e0e6db/Screenshot%202025-07-18%20105247.png](https://github.com/amanbhati/Sales-Dashboard-Power-BI/blob/fe718deb8b5b6d17e50e8348594a6e95ecf1d1f5/Screenshot%202025-08-07%20115335.png)
 
 ---
 
