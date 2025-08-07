@@ -38,13 +38,6 @@ This report is powered by data from the following sources. Please list the prima
 
 *(Please check the boxes and add details for your specific data sources.)*
 
-### Data Model
-
-The dashboard uses a relational data model to connect different data tables. Below is a simplified view. It's highly recommended to add a screenshot of your actual data model from Power BI's "Model" view.
-
-![Data Model Placeholder](https://placehold.co/600x350/2d3748/ffffff?text=Replace+with+a+screenshot+of+your+Data+Model)
-*<p align="center">Data Model View from Power BI</p>*
-
 ---
 
 ## 🚀 Getting Started
@@ -88,7 +81,6 @@ Contributions are welcome! If you have suggestions for improving the dashboard, 
 ## 📸 Preview
 
 ![Dashboard Screenshot]([https://github.com/amanbhati/E-Commerce-Dashboard-Power-BI-/raw/d199b266e46293f40034a0d9a8e3d8c528e0e6db/Screenshot%202025-07-18%20105247.png](https://github.com/amanbhati/Sales-Dashboard-Power-BI/blob/fe718deb8b5b6d17e50e8348594a6e95ecf1d1f5/Screenshot%202025-08-07%20115335.png)
-
 ---
 
 ## 📃 License
