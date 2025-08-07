@@ -80,7 +80,7 @@ Contributions are welcome! If you have suggestions for improving the dashboard, 
 
 ## 📸 Preview
 
-![Dashboard Screenshot]([https://github.com/amanbhati/E-Commerce-Dashboard-Power-BI-/raw/d199b266e46293f40034a0d9a8e3d8c528e0e6db/Screenshot%202025-07-18%20105247.png](https://github.com/amanbhati/Sales-Dashboard-Power-BI/blob/fe718deb8b5b6d17e50e8348594a6e95ecf1d1f5/Screenshot%202025-08-07%20115335.png)
+![Dashboard Screenshot]([https://github.com/amanbhati/E-Commerce-Dashboard-Power-BI-/raw/d199b266e46293f40034a0d9a8e3d8c528e0e6db/Screenshot%202025-07-18%20105247.png](https://github.com/amanbhati/Sales-Dashboard-Power-BI/blob/fe718deb8b5b6d17e50e8348594a6e95ecf1d1f5/Screenshot%202025-08-07%20115335.png])
 ---
 
 ## 📃 License
